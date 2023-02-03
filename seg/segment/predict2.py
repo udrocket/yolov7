@@ -149,7 +149,7 @@ def run(
             annotator = Annotator(im0, line_width=line_thickness, example=str(names))
             #
             #
-            print ('annotator: ' , annotator)
+            print('annotator: ' , annotator)
             #
             #
             if len(det):
@@ -157,7 +157,7 @@ def run(
                 
                 #
                 #
-                print = ('masks: ' , masks)
+                print('masks: ' , masks)
                 #
                 #
 
